@@ -104,9 +104,9 @@ strong {
 .no-data {
     color: #777;
 }
-/* @media (max-width: 30rem) {
+@media (max-width: 30rem) {
     .heading {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     .card {
         padding: 1.5rem;
@@ -136,4 +136,4 @@ strong {
     font-size: 1rem;
     font-weight: 500;
 }
-} */
+}

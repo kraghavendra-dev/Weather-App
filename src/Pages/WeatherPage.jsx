@@ -38,7 +38,7 @@ const WeatherPage = () => {
             <div className='searchBox'>
              <input
               type="text"
-              placeholder='Search Loaction...'
+              placeholder='Search Location...'
               value={input}
               onChange={(e)=>setInput(e.target.value)}
             />
